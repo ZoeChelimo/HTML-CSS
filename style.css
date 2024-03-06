@@ -1,3 +1,33 @@
 *{
-    background-color: aqua;
+    background-color: pink;
+    font-style: italic;
+    font-size: large;
+}
+h1{
+    font-size: 100px;
+    background-color: grey;
+}
+h2{
+    font-size: 60px;
+    font-style: italic;
+    background-color: grey;
+}
+p{
+    font-style: oblique;
+    font-size: larger;
+}
+li{
+    font-weight: bolder;
+    background-color: blueviolet;
+}
+.para1{
+    font-size: 60px;
+    font-style: oblique;
+    background-color: grey;
+}
+#MAINHEADING{
+    font-size: 100px;
+    font-style: monospace;
+    background-color: pink;
+    background-image: -moz-linear-gradient();S
 }
